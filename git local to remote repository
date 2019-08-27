@@ -1,0 +1,27 @@
+#Resources 
+https://www.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/12386660#questions
+
+
+########################################################################
+#Inside the terminal 
+$ git init 
+
+$ git status 
+
+#From Working Directory to Staging Area 
+$ git add . 
+
+#From Staging Area to Local Repository 
+$ git commit -m "Initial Commit"
+
+$ git log 
+
+########################################################################
+#Create a new repository in the GitHub page. 
+1. Create a new repository --> Create repository (green button)
+2. copy and paste "git remore add origin https://github.com..................." in the terminal 
+3. 
+$ git push -u origin master 
+
+
+########################################################################
