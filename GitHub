@@ -1,4 +1,6 @@
-#Resources 
+# git local to remote repository 
+
+###Resources 
 https://www.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/12386660#questions
 https://www.udemy.com/the-web-developer-bootcamp/learn/lecture/4057580#questions
 
@@ -26,3 +28,8 @@ $ git push -u origin master
 
 
 ########################################################################
+
+# update github 
+
+https://stackoverflow.com/questions/24357108/git-updates-were-rejected-because-the-remote-contains-work-that-you-do-not-have
+git push -f origin master
