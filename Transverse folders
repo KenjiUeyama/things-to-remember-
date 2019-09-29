@@ -1,0 +1,10 @@
+/ 
+go back to the root folder, then transverse forward/downward.
+
+./ 
+being in the folder we are currently in (current working directory) and transverse forward/downward in the tree. 
+
+../
+go up one directory, then being in the transverse.
+
+https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/10636314#questions
