@@ -28,8 +28,18 @@ $ git push -u origin master
 
 
 ########################################################################
-
 # update github 
 
 https://stackoverflow.com/questions/24357108/git-updates-were-rejected-because-the-remote-contains-work-that-you-do-not-have
 git push -f origin master
+
+########################################################################
+# Clone the git from the github
+$ git clone "https:_________.git" 
+↑ no "" needed ↑ 
+
+$ cd "name of the file" 
+- for example, cd yelpcamp-user-notifications
+
+$ npm install 
+
