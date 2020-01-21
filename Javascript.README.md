@@ -1,4 +1,10 @@
 # - Javascript -  
+
+
+## Map
+- Create a new array with the results of calling a callback on every element in the array.
+- Good Explanation -  [Colt Steele on Udemy](https://www.udemy.com/course/javascript-beginners-complete-tutorial/learn/lecture/17010224#questions)
+
 ## Asynchroms function 
 - Good Explanation -  [Jonas Schmedtmann on Udemy](https://www.udemy.com/course/nodejs-express-mongodb-bootcamp/learn/lecture/15080918#overview)
 
