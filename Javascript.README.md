@@ -7,7 +7,7 @@
 
 
 ## Object Oriented Javascript 
-- Good Explanation - [The Net Ninja on Youtube](https://www.youtube.com/watch?v=7d9H34ZVRPg&list=PL4cUxeGkcC9i5yvDkJgt60vNVWffpblB7&index=2)
+- Good Explanation - [The Net Ninja Javascript Tutorial #2  on Youtube](https://www.youtube.com/watch?v=7d9H34ZVRPg&list=PL4cUxeGkcC9i5yvDkJgt60vNVWffpblB7&index=2)
 
 ### Class Constructor
 - The new operator lets developers create an instance of a user-defined object type or of one of the built-in object types that has a constructor function - [new Operator (MDN web docs)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/new)
