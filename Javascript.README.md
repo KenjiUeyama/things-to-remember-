@@ -9,16 +9,19 @@
 ## Object Oriented Javascript 
 - Good Explanation - [The Net Ninja Javascript Tutorial #2 on Youtube](https://www.youtube.com/watch?v=7d9H34ZVRPg&list=PL4cUxeGkcC9i5yvDkJgt60vNVWffpblB7&index=2)
 
-### Classes 
+#### Classes 
 - uses to create multiple objects like creating different users with the same properties. 
 - Good Explanation - [The Net Ninja Javascript Tutorial #4 on Youtube](https://www.youtube.com/watch?v=Ug4ChzopcE4&list=PL4cUxeGkcC9i5yvDkJgt60vNVWffpblB7&index=4)
 
-### Class Constructor
+#### Class Constructor
 - The new operator lets developers create an instance of a user-defined object type or of one of the built-in object types that has a constructor function - [new Operator (MDN web docs)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/new)
 - Good Explanation - [The Net Ninja on Youtube](https://www.youtube.com/watch?v=HboT8g_QSGc)
 
-### Method Chaining 
+#### Method Chaining 
 - Good Explanation - [The Net Ninja Javascript Tutorial #7 on Youtube](https://www.youtube.com/watch?v=8x1fygdWabY&list=PL4cUxeGkcC9i5yvDkJgt60vNVWffpblB7&index=7)
+
+#### Class Inheritance (extends, super)
+- Good Explanation - [The Net Ninja Javascript Tutorial #8 on Youtube](https://www.youtube.com/watch?v=8x1fygdWabY&list=PL4cUxeGkcC9i5yvDkJgt60vNVWffpblB7&index=8)
 
 
 ## Asynchroms function 
