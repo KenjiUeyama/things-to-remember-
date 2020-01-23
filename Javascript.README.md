@@ -21,6 +21,7 @@
 - Good Explanation - [The Net Ninja Javascript Tutorial #7 on Youtube](https://www.youtube.com/watch?v=8x1fygdWabY&list=PL4cUxeGkcC9i5yvDkJgt60vNVWffpblB7&index=7)
 
 #### Class Inheritance (extends, super)
+- [super (MDN web docs)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/super)
 - Good Explanation - [The Net Ninja Javascript Tutorial #8 on Youtube](https://www.youtube.com/watch?v=8x1fygdWabY&list=PL4cUxeGkcC9i5yvDkJgt60vNVWffpblB7&index=8)
 
 
