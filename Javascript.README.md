@@ -25,12 +25,15 @@
 - 【Example】 extra method (like only for the admin)aside from the method created in the Constructor object for the user. 
 - Good Explanation - [The Net Ninja Javascript Tutorial #8 on Youtube](https://www.youtube.com/watch?v=8x1fygdWabY&list=PL4cUxeGkcC9i5yvDkJgt60vNVWffpblB7&index=8)
 
-## Async & Await ES2017/ES8  
-### Asynchroms function 
+
+## Asynchroms function 
 - Good Explanation -  [Jonas Schmedtmann on Udemy](https://www.udemy.com/course/nodejs-express-mongodb-bootcamp/learn/lecture/15080918#overview)
 
 ### Promise
 - Good Explanation -  [Colt Steele on Udemy](https://www.udemy.com/course/javascript-beginners-complete-tutorial/learn/lecture/17161514#questions)
+
+### Async & Await ES2017/ES8  
+- Good Explanation -  [Colt Steele on Udemy](https://www.udemy.com/course/javascript-beginners-complete-tutorial/learn/lecture/17189424#questions)
 
 ### Try ... Catch plus Throwing Errors 
 - Good Explanation - [Steve Griffith on Youtube](https://www.youtube.com/watch?v=_am9rKw4vWw&t=3s)
