@@ -42,3 +42,7 @@ $ cd "name of the file"
 $ npm install 
 ↓　Resource from here ↓
 https://github.com/nax3t/yelpcamp-user-notifications
+
+# Exclude files 
+1. create a file '.gitignore'
+2. type the name of the files you want to exculde in the .gitignore file
