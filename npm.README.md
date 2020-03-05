@@ -5,9 +5,13 @@
 1. npm publish 
 
 
-## Express 
+## Express (web application framework for node.js)
 - Document: https://www.npmjs.com/package/express
 - Good Explanation: https://www.udemy.com/course/nodejs-master-class/learn/lecture/9991626#overview
 
 ### Handling HTTP GET Requests
 - https://www.udemy.com/course/nodejs-master-class/learn/lecture/9991654#overview
+
+
+## joi (Input Validator)
+- Document: https://hapi.dev/family/joi/
