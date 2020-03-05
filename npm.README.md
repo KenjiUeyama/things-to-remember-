@@ -10,8 +10,12 @@
 - Good Explanation: https://www.udemy.com/course/nodejs-master-class/learn/lecture/9991626#overview
 
 ### Handling HTTP GET Requests
-- https://www.udemy.com/course/nodejs-master-class/learn/lecture/9991654#overview
+- Good Explanation: https://www.udemy.com/course/nodejs-master-class/learn/lecture/9991654#overview
 
+### Handling HTTP POST Requests
+- Good Explanation: https://www.udemy.com/course/nodejs-master-class/learn/lecture/9991662#overview
 
 ## joi (Input Validator)
 - Document: https://hapi.dev/family/joi/
+
+
