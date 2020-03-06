@@ -26,7 +26,8 @@
 - Good Explanation - [The Net Ninja Javascript Tutorial #8 on Youtube](https://www.youtube.com/watch?v=8x1fygdWabY&list=PL4cUxeGkcC9i5yvDkJgt60vNVWffpblB7&index=8)
 
 
-## Asynchroms function 
+## ⭐️Asynchroms function 
+- Good Short Explanation - [Mosh Hamedani on Udemy](https://www.udemy.com/course/nodejs-master-class/learn/lecture/9992446#overview)
 - Good Explanation -  [Jonas Schmedtmann on Udemy](https://www.udemy.com/course/nodejs-express-mongodb-bootcamp/learn/lecture/15080918#overview)
 
 ### Promise
