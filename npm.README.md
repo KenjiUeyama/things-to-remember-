@@ -19,3 +19,8 @@
 - Document: https://hapi.dev/family/joi/
 
 
+## config (define a set of default parameters, and extend them for different deployment environments)
+- Good Explanation: https://www.udemy.com/course/nodejs-master-class/learn/lecture/9991970#overview
+- Document: https://www.npmjs.com/package/config
+
+
