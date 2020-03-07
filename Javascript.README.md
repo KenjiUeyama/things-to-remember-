@@ -31,7 +31,7 @@
 - Good Explanation -  [Jonas Schmedtmann on Udemy](https://www.udemy.com/course/nodejs-express-mongodb-bootcamp/learn/lecture/15080918#overview)
 
 ### Promise
-- Good Short Explanation - [Mosh Hamedani on Udemy](https://www.udemy.com/course/nodejs-master-class/learn/lecture/9992460#overview)
+- Short Explanation - [Mosh Hamedani on Udemy](https://www.udemy.com/course/nodejs-master-class/learn/lecture/9992460#overview)
 - Good Explanation -  [Colt Steele on Udemy](https://www.udemy.com/course/javascript-beginners-complete-tutorial/learn/lecture/17161514#questions)
 
 ### Async & Await ES2017/ES8  
