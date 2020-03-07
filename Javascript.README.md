@@ -36,6 +36,7 @@
 
 ### Async & Await ES2017/ES8  
 - Good Explanation -  [Colt Steele on Udemy](https://www.udemy.com/course/javascript-beginners-complete-tutorial/learn/lecture/17189424#questions)
+- Short Explanation - [Mosh Hamedani on Udemy] (https://www.udemy.com/course/nodejs-master-class/learn/lecture/9992474#overview)
 
 ### Try ... Catch plus Throwing Errors 
 - Good Explanation - [Steve Griffith on Youtube](https://www.youtube.com/watch?v=_am9rKw4vWw&t=3s)
