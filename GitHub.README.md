@@ -6,7 +6,7 @@ https://www.udemy.com/the-web-developer-bootcamp/learn/lecture/4057580#questions
 
 
 
-#Inside the terminal 
+# Inside the terminal 
 $ git init 
 
 $ git status 
@@ -20,7 +20,7 @@ $ git commit -m "Initial Commit"
 $ git log 
 
 
-#Create a new repository in the GitHub page. 
+# Create a new repository in the GitHub page. 
 1. Create a new repository --> Create repository (green button)
 2. copy and paste "git remore add origin https://github.com..................." in the terminal 
 3. 
@@ -46,3 +46,10 @@ https://github.com/nax3t/yelpcamp-user-notifications
 # Exclude files 
 1. create a file '.gitignore'
 2. type the name of the files you want to exculde in the .gitignore file
+
+
+# Error 
+## fatal: remote origin already exists. 
+$ git remote rm origin originの削除
+$ git remote add origin git@bitbucket.org:ユーザー名/アプリ名.git
+$ git push -u origin master
