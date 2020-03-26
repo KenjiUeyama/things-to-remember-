@@ -47,8 +47,10 @@ https://github.com/nax3t/yelpcamp-user-notifications
 1. create a file '.gitignore'
 2. type the name of the files you want to exculde in the .gitignore file
 
-
+```diff
+- ## fatal: remote origin already exists. in red
 # Error 
+```
 ## fatal: remote origin already exists. 
 $ git remote rm origin originの削除
 $ git remote add origin git@bitbucket.org:ユーザー名/アプリ名.git
