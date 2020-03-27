@@ -9,6 +9,6 @@ link: https://www.youtube.com/watch?v=nvPOUdz5PL4
 https://qiita.com/kosuke0820/items/ebeb0c59b603c7224eac
 
 cd 動画のあるディレクトリ
-ffmpeg -i sample.mp4 -an -r 10 %04d.png  // 10frames/secでpng作成
-convert *.png -resize 40% output_%04d.png  // 作成したpngを40%にリサイズ
-convert output_*.png result.gif  //  gifに変換
+- ffmpeg -i sample.mp4 -an -r 10 %04d.png  // 10frames/secでpng作成
+- convert *.png -resize 40% output_%04d.png  // 作成したpngを40%にリサイズ
+- convert output_*.png result.gif  //  gifに変換
