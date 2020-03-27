@@ -5,7 +5,7 @@ link: https://www.youtube.com/watch?v=nvPOUdz5PL4
 - drag a file to here
 - copy the shown code and paste it to the README file.
 
-# Add gif to the Readme.md
+## Add gif to the Readme.md
 https://qiita.com/kosuke0820/items/ebeb0c59b603c7224eac
 
 cd 動画のあるディレクトリ
