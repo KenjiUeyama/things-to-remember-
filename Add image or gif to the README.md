@@ -13,3 +13,6 @@ cd 動画のあるディレクトリ
 - ffmpeg -i sample.mp4 -an -r 10 %04d.png  // 10frames/secでpng作成
 - convert *.png -resize 40% output_%04d.png  // 作成したpngを40%にリサイズ
 - convert output_*.png result.gif  //  gifに変換
+
+* 動画サイズが大きい場合(over 10MB)
+- https://qiita.com/tomoima525/items/acab0f7badf6fa6f34ad
