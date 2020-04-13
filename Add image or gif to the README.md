@@ -15,4 +15,6 @@ cd 動画のあるディレクトリ
 - convert output_*.png result.gif  //  gifに変換
 
 * 動画サイズが大きい場合(over 10MB)
-- https://qiita.com/tomoima525/items/acab0f7badf6fa6f34ad
+２コマンド目
+- convert *.png -resize 20% output_%04d.png
+- convert output_*.png kekka.gif
