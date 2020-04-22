@@ -49,6 +49,11 @@ https://github.com/nax3t/yelpcamp-user-notifications
 
 
 ## fatal: remote origin already exists. 
-$ git remote rm origin originの削除
-$ git remote add origin git@bitbucket.org:ユーザー名/アプリ名.git
+$ git remote rm origin // originの削除
+$ git remote add origin  git@bitbucket.org:ユーザー名/アプリ名.git
 $ git push -u origin master
+
+## Create a website on Github Page 
+- https://www.youtube.com/watch?v=bwThn0rxv7M
+## Add a custum domain in Github Pages 
+- https://www.youtube.com/watch?v=hUChaN-VRIc&t=2s
