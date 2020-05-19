@@ -1,4 +1,7 @@
 # Deploying an App with a Database to Heroku
+
+### Before you deploy
+- Connect your app to mongoDB atlas
 1. cd to the project folder
 2. Track your codebase in a Git repository 
   - git add .
